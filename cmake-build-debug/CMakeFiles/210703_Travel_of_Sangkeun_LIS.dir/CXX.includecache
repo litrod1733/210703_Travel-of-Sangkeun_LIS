@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isaac/FORE_HEAD/2021.08.03/210703_Travel-of-Sangkeun_LIS/main.cpp
+cstdio
+-
+iostream
+-
+vector
+-
+
